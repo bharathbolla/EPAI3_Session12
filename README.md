@@ -16,16 +16,16 @@ Refactor the `Polygons` (sequence) type, into an **iterable**. Make sure also th
 
 # Polygon Class is implemented in Module Session11.py
 
-https://github.com/dine1717/EPAI3_Session12/blob/main/session_12.py
+https://github.com/bharathbolla/EPAI3_Session12/blob/main/session_12.py
 
 # Polygon Iterator is implemented in Module Session11_2.py
 
-https://github.com/dine1717/EPAI3_Session11/blob/main/session_12_2.py
+https://github.com/bharathbolla/EPAI3_Session12/blob/main/session_12_2.py
 
 # Test Cases implemented  in test.py
 
-https://github.com/dine1717/EPAI3_Session11/blob/main/test.py
+https://github.com/bharathbolla/EPAI3_Session12/blob/main/test.py
 
 # Access to modules in Notebook
 
-https://github.com/dine1717/EPAI3_Session11/blob/main/session12.ipynb
+https://github.com/bharathbolla/EPAI3_Session12/blob/main/session12.ipynb
